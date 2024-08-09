@@ -1,4 +1,4 @@
-Hi, I'm Noah Fried. I'm a developer currently learning C++.
+Math major at Columbia; most stuff here is data work for econ research
 
 <!---
 noahfried/noahfried is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
